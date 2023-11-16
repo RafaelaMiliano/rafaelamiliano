@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/RafaelaMiliano">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelaMiliano&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaMiliano&layout=compact&langs_count=7&theme=panda"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelaMiliano&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaMiliano&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
 ##
