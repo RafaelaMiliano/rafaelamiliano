@@ -3,7 +3,7 @@
 - 🔭 Buscando oportunidade na área de front-end
 - 🌱 Estudando atualmente: JavaScript
 - 😄 Pronomes: Ela/Dela
-- ⚡ Fatos sobre mim: Ex bancária pós graduada em gestão de pessoas fazendo transição de carreira e ex atleta de vôley de quadra!
+- ⚡ Fatos sobre mim: Ex bancária e ex atleta de vôley de quadra!
 
 <div>
 <!--   <a href="https://github.com/RafaelaMiliano"> -->
