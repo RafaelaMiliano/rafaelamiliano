@@ -1,4 +1,4 @@
-### Olá!!! Eu sou a Rafaela Miliano! 👋
+### Olá, eu sou a Rafaela Miliano! 🤞
 
 - 🔭 Buscando oportunidade na área de front-end
 - 🌱 Estudando atualmente: JavaScript
